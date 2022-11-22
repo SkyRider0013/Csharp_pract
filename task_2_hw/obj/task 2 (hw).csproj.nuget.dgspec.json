@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\task 2 (hw)\\task 2 (hw).csproj": {}
+    "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\HW\\task_2_hw\\task 2 (hw).csproj": {}
   },
   "projects": {
-    "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\task 2 (hw)\\task 2 (hw).csproj": {
+    "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\HW\\task_2_hw\\task 2 (hw).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\task 2 (hw)\\task 2 (hw).csproj",
+        "projectUniqueName": "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\HW\\task_2_hw\\task 2 (hw).csproj",
         "projectName": "task 2 (hw)",
-        "projectPath": "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\task 2 (hw)\\task 2 (hw).csproj",
+        "projectPath": "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\HW\\task_2_hw\\task 2 (hw).csproj",
         "packagesPath": "C:\\Users\\pushk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\task 2 (hw)\\obj\\",
+        "outputPath": "C:\\Users\\pushk\\Desktop\\Education on programmist\\Introduction in C#\\Pract\\HW\\task_2_hw\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pushk\\AppData\\Roaming\\NuGet\\NuGet.Config"
