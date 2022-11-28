@@ -1,7 +1,7 @@
 ﻿// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
 
 Console.WriteLine("Введите первое число");
-int A = Convert.ToInt32(Console.ReadLine());
+int A = Convert.ToInt32(Console.ReadLine()); // Convert.ToInt32 позволяет конвертировать значение из другой переменной в целочисленное int
 Console.WriteLine("Введите второе число, отличное от первого");
 int B = Convert.ToInt32(Console.ReadLine());
 
